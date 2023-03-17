@@ -21,6 +21,6 @@ int main(){
 	int n, result, A[] = {4, 6, 34, 46, 58, 39, 43};    
 	n = 7;
     result = Maximo(A, 0, n-1);
-    printf("\nEl maximo valor es %d",result);
+    printf("El maximo valor es %d",result);
 	return 0;
 }
